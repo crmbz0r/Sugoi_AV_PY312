@@ -7,7 +7,7 @@
 
 chat_copy.md
 chatlog_ende.txt
-\# Error.md
+/# Error.md
 
 AudioClip/
 Code/backendServer/Program-Backend/Sugoi-Audio-Video-Translator/INPUT/
@@ -23,4 +23,13 @@ __pycache__/
 *.pyo
 *.pyd
 Code/backendServer/Program-Backend/Sugoi-Audio-Video-Translator/whisper_small/model.bin
+/Code/backendServer/Program-Backend/Sugoi-Audio-Video-Translator/whisper_small/tokenizer.json"
+/Code/backendServer/Program-Backend/Sugoi-Audio-Video-Translator/whisper_small/vocabulary.txt"
+cconfig.json"
+S:\Sugoi_AV_CUDA_Test\Code\backendServer\Program-Backend\Sugoi-Audio-Video-Translator\whisper_small\tokenizer.json"
+S:\Sugoi_AV_CUDA_Test\Code\backendServer\Program-Backend\Sugoi-Audio-Video-Translator\whisper_small\vocabulary.txt"
+S:\Sugoi_AV_CUDA_Test\Code\backendServer\Program-Backend\Sugoi-Audio-Video-Translator\whisper_small\config.json"*
+S:\Sugoi_AV_CUDA_Test\Code\backendServer\Program-Backend\Sugoi-Audio-Video-Translator\whisper_small\tokenizer.json"
+S:\Sugoi_AV_CUDA_Test\Code\backendServer\Program-Backend\Sugoi-Audio-Video-Translator\whisper_small\vocabulary.txt"
+S:\Sugoi_AV_CUDA_Test\Code\backendServer\Program-Backend\Sugoi-Audio-Video-Translator\whisper_small\config"
 Code/backendServer/Program-Backend/Sugoi-Audio-Video-Translator/whisper_small/model.7z.*
