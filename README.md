@@ -1,6 +1,7 @@
 <div align="center">
   <h1><strong>Sugoi AV w/ updated Python to 3.12.9</strong></h1>
   <h2><strong>and CUDA 13.1 + cuDNN v9.13</strong></h2>
+  <h3><light>- standalone sandbox version - </br>
 </div>
 
 > [!WARNING]
