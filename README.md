@@ -12,7 +12,8 @@ This repository contains a local sandbox/build of the Sugoi Audio/Video translat
 
 ## Current Focus
 
-- Performance tuning for transcription/translation
+- Performance tuning for transcription/translation of massive amounts of audio clips automated
+- Currently focused on AiComi audio clip file transcription & translartion to fill missing subtitles
 - Batch processing and output handling
 - Stability improvements for local workflows
 
