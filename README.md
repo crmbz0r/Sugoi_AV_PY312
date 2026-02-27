@@ -1,4 +1,4 @@
-﻿# Sugoi AV CUDA Test
+﻿# Sugoi AV w/ CUDA 13.1
 
 > 🚧 **Work in Progress (WIP)**  
 > This project is under active development. Features, structure, and workflows may change.
