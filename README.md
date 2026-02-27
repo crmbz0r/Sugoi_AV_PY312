@@ -1,4 +1,4 @@
-﻿# Sugoi AV w/ CUDA 13.1
+﻿# Sugoi AV w/ updated Python to 3.12.9 and CUDA 13.1 + cuDNN v9.13 
 
 > 🚧 **Work in Progress (WIP)**  
 > This project is under active development. Features, structure, and workflows may change.
