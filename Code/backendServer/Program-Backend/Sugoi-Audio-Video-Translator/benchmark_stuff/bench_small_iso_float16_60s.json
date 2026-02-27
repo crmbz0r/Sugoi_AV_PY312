@@ -1,0 +1,68 @@
+{
+  "input": "S:\\Sugoi_Offline_Translate_Toolkit\\Code\\backendServer\\Program-Backend\\Sugoi-Audio-Video-Translator\\INPUT",
+  "start_index": 0,
+  "tested_files": 2021,
+  "benchmark_wallclock_seconds": 62.225,
+  "fastest_preset": {
+    "model_name": "ctranslate2-4you/whisper-small-ct2-float16",
+    "compute_type": "float16",
+    "batch_size": 16,
+    "beam_size": 1,
+    "device": "cuda",
+    "language": "ja",
+    "intra_threads": null
+  },
+  "results_ranked": [
+    {
+      "preset": {
+        "model_name": "ctranslate2-4you/whisper-small-ct2-float16",
+        "compute_type": "float16",
+        "batch_size": 16,
+        "beam_size": 1,
+        "device": "cuda",
+        "language": "ja",
+        "intra_threads": null
+      },
+      "input_count": 2021,
+      "success_count": 7,
+      "failed_count": 1,
+      "failed_files": [
+        "INPUT\\hv\\20\\ac_hv_20_00_004.wav"
+      ],
+      "total_seconds": 15.101,
+      "wallclock_seconds": 62.225,
+      "average_seconds_per_file": 2.157,
+      "files_per_minute": 27.813,
+      "rows": [
+        {
+          "file": "INPUT\\hv\\20\\ac_hv_20_00_000.wav",
+          "seconds": 2.089
+        },
+        {
+          "file": "INPUT\\hv\\20\\ac_hv_20_00_001.wav",
+          "seconds": 2.089
+        },
+        {
+          "file": "INPUT\\hv\\20\\ac_hv_20_00_002.wav",
+          "seconds": 2.093
+        },
+        {
+          "file": "INPUT\\hv\\20\\ac_hv_20_00_003.wav",
+          "seconds": 2.199
+        },
+        {
+          "file": "INPUT\\hv\\20\\ac_hv_20_00_005.wav",
+          "seconds": 2.152
+        },
+        {
+          "file": "INPUT\\hv\\20\\ac_hv_20_00_006.wav",
+          "seconds": 2.29
+        },
+        {
+          "file": "INPUT\\hv\\20\\ac_hv_20_00_007.wav",
+          "seconds": 2.188
+        }
+      ]
+    }
+  ]
+}

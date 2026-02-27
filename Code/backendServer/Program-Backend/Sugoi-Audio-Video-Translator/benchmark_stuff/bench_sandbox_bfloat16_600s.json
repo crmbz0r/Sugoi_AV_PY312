@@ -1,0 +1,628 @@
+{
+  "input": "S:\\Sugoi_AV_CUDA_Test\\Code\\backendServer\\Program-Backend\\Sugoi-Audio-Video-Translator\\INPUT",
+  "start_index": 0,
+  "tested_files": 2021,
+  "benchmark_wallclock_seconds": 601.368,
+  "fastest_preset": {
+    "model_name": "ctranslate2-4you/whisper-small-ct2-bfloat16",
+    "compute_type": "bfloat16",
+    "batch_size": 16,
+    "beam_size": 1,
+    "device": "cuda",
+    "language": "ja",
+    "intra_threads": null
+  },
+  "results_ranked": [
+    {
+      "preset": {
+        "model_name": "ctranslate2-4you/whisper-small-ct2-bfloat16",
+        "compute_type": "bfloat16",
+        "batch_size": 16,
+        "beam_size": 1,
+        "device": "cuda",
+        "language": "ja",
+        "intra_threads": null
+      },
+      "input_count": 2021,
+      "success_count": 147,
+      "failed_count": 0,
+      "failed_files": [],
+      "nonzero_exit_count": 0,
+      "nonzero_exit_files": [],
+      "total_seconds": 451.384,
+      "wallclock_seconds": 601.368,
+      "average_seconds_per_file": 3.071,
+      "files_per_minute": 19.54,
+      "rows": [
+        {
+          "file": "S:\\Sugoi_AV_CUDA_Test\\Code\\backendServer\\Program-Backend\\Sugoi-Audio-Video-Translator\\INPUT\\hv\\20\\ac_hv_20_00_000.wav",
+          "seconds": 2.942
+        },
+        {
+          "file": "S:\\Sugoi_AV_CUDA_Test\\Code\\backendServer\\Program-Backend\\Sugoi-Audio-Video-Translator\\INPUT\\hv\\20\\ac_hv_20_00_001.wav",
+          "seconds": 2.944
+        },
+        {
+          "file": "S:\\Sugoi_AV_CUDA_Test\\Code\\backendServer\\Program-Backend\\Sugoi-Audio-Video-Translator\\INPUT\\hv\\20\\ac_hv_20_00_002.wav",
+          "seconds": 2.886
+        },
+        {
+          "file": "S:\\Sugoi_AV_CUDA_Test\\Code\\backendServer\\Program-Backend\\Sugoi-Audio-Video-Translator\\INPUT\\hv\\20\\ac_hv_20_00_003.wav",
+          "seconds": 2.91
+        },
+        {
+          "file": "S:\\Sugoi_AV_CUDA_Test\\Code\\backendServer\\Program-Backend\\Sugoi-Audio-Video-Translator\\INPUT\\hv\\20\\ac_hv_20_00_004.wav",
+          "seconds": 2.84
+        },
+        {
+          "file": "S:\\Sugoi_AV_CUDA_Test\\Code\\backendServer\\Program-Backend\\Sugoi-Audio-Video-Translator\\INPUT\\hv\\20\\ac_hv_20_00_005.wav",
+          "seconds": 2.805
+        },
+        {
+          "file": "S:\\Sugoi_AV_CUDA_Test\\Code\\backendServer\\Program-Backend\\Sugoi-Audio-Video-Translator\\INPUT\\hv\\20\\ac_hv_20_00_006.wav",
+          "seconds": 2.924
+        },
+        {
+          "file": "S:\\Sugoi_AV_CUDA_Test\\Code\\backendServer\\Program-Backend\\Sugoi-Audio-Video-Translator\\INPUT\\hv\\20\\ac_hv_20_00_007.wav",
+          "seconds": 2.905
+        },
+        {
+          "file": "S:\\Sugoi_AV_CUDA_Test\\Code\\backendServer\\Program-Backend\\Sugoi-Audio-Video-Translator\\INPUT\\hv\\20\\ac_hv_20_00_008.wav",
+          "seconds": 2.989
+        },
+        {
+          "file": "S:\\Sugoi_AV_CUDA_Test\\Code\\backendServer\\Program-Backend\\Sugoi-Audio-Video-Translator\\INPUT\\hv\\20\\ac_hv_20_00_009.wav",
+          "seconds": 3.021
+        },
+        {
+          "file": "S:\\Sugoi_AV_CUDA_Test\\Code\\backendServer\\Program-Backend\\Sugoi-Audio-Video-Translator\\INPUT\\hv\\20\\ac_hv_20_00_010.wav",
+          "seconds": 2.926
+        },
+        {
+          "file": "S:\\Sugoi_AV_CUDA_Test\\Code\\backendServer\\Program-Backend\\Sugoi-Audio-Video-Translator\\INPUT\\hv\\20\\ac_hv_20_00_011.wav",
+          "seconds": 2.839
+        },
+        {
+          "file": "S:\\Sugoi_AV_CUDA_Test\\Code\\backendServer\\Program-Backend\\Sugoi-Audio-Video-Translator\\INPUT\\hv\\20\\ac_hv_20_00_012.wav",
+          "seconds": 3.98
+        },
+        {
+          "file": "S:\\Sugoi_AV_CUDA_Test\\Code\\backendServer\\Program-Backend\\Sugoi-Audio-Video-Translator\\INPUT\\hv\\20\\ac_hv_20_00_013.wav",
+          "seconds": 2.896
+        },
+        {
+          "file": "S:\\Sugoi_AV_CUDA_Test\\Code\\backendServer\\Program-Backend\\Sugoi-Audio-Video-Translator\\INPUT\\hv\\20\\ac_hv_20_00_014.wav",
+          "seconds": 2.91
+        },
+        {
+          "file": "S:\\Sugoi_AV_CUDA_Test\\Code\\backendServer\\Program-Backend\\Sugoi-Audio-Video-Translator\\INPUT\\hv\\20\\ac_hv_20_00_015.wav",
+          "seconds": 2.842
+        },
+        {
+          "file": "S:\\Sugoi_AV_CUDA_Test\\Code\\backendServer\\Program-Backend\\Sugoi-Audio-Video-Translator\\INPUT\\hv\\20\\ac_hv_20_00_016.wav",
+          "seconds": 3.015
+        },
+        {
+          "file": "S:\\Sugoi_AV_CUDA_Test\\Code\\backendServer\\Program-Backend\\Sugoi-Audio-Video-Translator\\INPUT\\hv\\20\\ac_hv_20_00_017.wav",
+          "seconds": 3.029
+        },
+        {
+          "file": "S:\\Sugoi_AV_CUDA_Test\\Code\\backendServer\\Program-Backend\\Sugoi-Audio-Video-Translator\\INPUT\\hv\\20\\ac_hv_20_00_018.wav",
+          "seconds": 3.137
+        },
+        {
+          "file": "S:\\Sugoi_AV_CUDA_Test\\Code\\backendServer\\Program-Backend\\Sugoi-Audio-Video-Translator\\INPUT\\hv\\20\\ac_hv_20_00_019.wav",
+          "seconds": 2.967
+        },
+        {
+          "file": "S:\\Sugoi_AV_CUDA_Test\\Code\\backendServer\\Program-Backend\\Sugoi-Audio-Video-Translator\\INPUT\\hv\\20\\ac_hv_20_00_020.wav",
+          "seconds": 3.014
+        },
+        {
+          "file": "S:\\Sugoi_AV_CUDA_Test\\Code\\backendServer\\Program-Backend\\Sugoi-Audio-Video-Translator\\INPUT\\hv\\20\\ac_hv_20_00_021.wav",
+          "seconds": 3.112
+        },
+        {
+          "file": "S:\\Sugoi_AV_CUDA_Test\\Code\\backendServer\\Program-Backend\\Sugoi-Audio-Video-Translator\\INPUT\\hv\\20\\ac_hv_20_00_022.wav",
+          "seconds": 3.036
+        },
+        {
+          "file": "S:\\Sugoi_AV_CUDA_Test\\Code\\backendServer\\Program-Backend\\Sugoi-Audio-Video-Translator\\INPUT\\hv\\20\\ac_hv_20_00_023.wav",
+          "seconds": 2.94
+        },
+        {
+          "file": "S:\\Sugoi_AV_CUDA_Test\\Code\\backendServer\\Program-Backend\\Sugoi-Audio-Video-Translator\\INPUT\\hv\\20\\ac_hv_20_00_024.wav",
+          "seconds": 2.985
+        },
+        {
+          "file": "S:\\Sugoi_AV_CUDA_Test\\Code\\backendServer\\Program-Backend\\Sugoi-Audio-Video-Translator\\INPUT\\hv\\20\\ac_hv_20_00_025.wav",
+          "seconds": 2.969
+        },
+        {
+          "file": "S:\\Sugoi_AV_CUDA_Test\\Code\\backendServer\\Program-Backend\\Sugoi-Audio-Video-Translator\\INPUT\\hv\\20\\ac_hv_20_00_026.wav",
+          "seconds": 2.933
+        },
+        {
+          "file": "S:\\Sugoi_AV_CUDA_Test\\Code\\backendServer\\Program-Backend\\Sugoi-Audio-Video-Translator\\INPUT\\hv\\20\\ac_hv_20_00_027.wav",
+          "seconds": 3.368
+        },
+        {
+          "file": "S:\\Sugoi_AV_CUDA_Test\\Code\\backendServer\\Program-Backend\\Sugoi-Audio-Video-Translator\\INPUT\\hv\\20\\ac_hv_20_00_028.wav",
+          "seconds": 3.292
+        },
+        {
+          "file": "S:\\Sugoi_AV_CUDA_Test\\Code\\backendServer\\Program-Backend\\Sugoi-Audio-Video-Translator\\INPUT\\hv\\20\\ac_hv_20_00_029.wav",
+          "seconds": 3.211
+        },
+        {
+          "file": "S:\\Sugoi_AV_CUDA_Test\\Code\\backendServer\\Program-Backend\\Sugoi-Audio-Video-Translator\\INPUT\\hv\\20\\ac_hv_20_00_030.wav",
+          "seconds": 3.194
+        },
+        {
+          "file": "S:\\Sugoi_AV_CUDA_Test\\Code\\backendServer\\Program-Backend\\Sugoi-Audio-Video-Translator\\INPUT\\hv\\20\\ac_hv_20_00_031.wav",
+          "seconds": 3.304
+        },
+        {
+          "file": "S:\\Sugoi_AV_CUDA_Test\\Code\\backendServer\\Program-Backend\\Sugoi-Audio-Video-Translator\\INPUT\\hv\\20\\ac_hv_20_00_032.wav",
+          "seconds": 3.362
+        },
+        {
+          "file": "S:\\Sugoi_AV_CUDA_Test\\Code\\backendServer\\Program-Backend\\Sugoi-Audio-Video-Translator\\INPUT\\hv\\20\\ac_hv_20_00_033.wav",
+          "seconds": 3.367
+        },
+        {
+          "file": "S:\\Sugoi_AV_CUDA_Test\\Code\\backendServer\\Program-Backend\\Sugoi-Audio-Video-Translator\\INPUT\\hv\\20\\ac_hv_20_00_034.wav",
+          "seconds": 3.255
+        },
+        {
+          "file": "S:\\Sugoi_AV_CUDA_Test\\Code\\backendServer\\Program-Backend\\Sugoi-Audio-Video-Translator\\INPUT\\hv\\20\\ac_hv_20_00_035.wav",
+          "seconds": 3.263
+        },
+        {
+          "file": "S:\\Sugoi_AV_CUDA_Test\\Code\\backendServer\\Program-Backend\\Sugoi-Audio-Video-Translator\\INPUT\\hv\\20\\ac_hv_20_00_036.wav",
+          "seconds": 4.015
+        },
+        {
+          "file": "S:\\Sugoi_AV_CUDA_Test\\Code\\backendServer\\Program-Backend\\Sugoi-Audio-Video-Translator\\INPUT\\hv\\20\\ac_hv_20_00_037.wav",
+          "seconds": 3.713
+        },
+        {
+          "file": "S:\\Sugoi_AV_CUDA_Test\\Code\\backendServer\\Program-Backend\\Sugoi-Audio-Video-Translator\\INPUT\\hv\\20\\ac_hv_20_00_038.wav",
+          "seconds": 3.5
+        },
+        {
+          "file": "S:\\Sugoi_AV_CUDA_Test\\Code\\backendServer\\Program-Backend\\Sugoi-Audio-Video-Translator\\INPUT\\hv\\20\\ac_hv_20_00_039.wav",
+          "seconds": 3.305
+        },
+        {
+          "file": "S:\\Sugoi_AV_CUDA_Test\\Code\\backendServer\\Program-Backend\\Sugoi-Audio-Video-Translator\\INPUT\\hv\\20\\ac_hv_20_00_040.wav",
+          "seconds": 3.519
+        },
+        {
+          "file": "S:\\Sugoi_AV_CUDA_Test\\Code\\backendServer\\Program-Backend\\Sugoi-Audio-Video-Translator\\INPUT\\hv\\20\\ac_hv_20_00_041.wav",
+          "seconds": 3.59
+        },
+        {
+          "file": "S:\\Sugoi_AV_CUDA_Test\\Code\\backendServer\\Program-Backend\\Sugoi-Audio-Video-Translator\\INPUT\\hv\\20\\ac_hv_20_00_042.wav",
+          "seconds": 3.072
+        },
+        {
+          "file": "S:\\Sugoi_AV_CUDA_Test\\Code\\backendServer\\Program-Backend\\Sugoi-Audio-Video-Translator\\INPUT\\hv\\20\\ac_hv_20_00_043.wav",
+          "seconds": 3.064
+        },
+        {
+          "file": "S:\\Sugoi_AV_CUDA_Test\\Code\\backendServer\\Program-Backend\\Sugoi-Audio-Video-Translator\\INPUT\\hv\\20\\ac_hv_20_00_044.wav",
+          "seconds": 3.202
+        },
+        {
+          "file": "S:\\Sugoi_AV_CUDA_Test\\Code\\backendServer\\Program-Backend\\Sugoi-Audio-Video-Translator\\INPUT\\hv\\20\\ac_hv_20_00_045.wav",
+          "seconds": 3.229
+        },
+        {
+          "file": "S:\\Sugoi_AV_CUDA_Test\\Code\\backendServer\\Program-Backend\\Sugoi-Audio-Video-Translator\\INPUT\\hv\\20\\ac_hv_20_00_046.wav",
+          "seconds": 3.276
+        },
+        {
+          "file": "S:\\Sugoi_AV_CUDA_Test\\Code\\backendServer\\Program-Backend\\Sugoi-Audio-Video-Translator\\INPUT\\hv\\20\\ac_hv_20_00_047.wav",
+          "seconds": 3.07
+        },
+        {
+          "file": "S:\\Sugoi_AV_CUDA_Test\\Code\\backendServer\\Program-Backend\\Sugoi-Audio-Video-Translator\\INPUT\\hv\\20\\ac_hv_20_00_048.wav",
+          "seconds": 3.169
+        },
+        {
+          "file": "S:\\Sugoi_AV_CUDA_Test\\Code\\backendServer\\Program-Backend\\Sugoi-Audio-Video-Translator\\INPUT\\hv\\20\\ac_hv_20_00_049.wav",
+          "seconds": 3.05
+        },
+        {
+          "file": "S:\\Sugoi_AV_CUDA_Test\\Code\\backendServer\\Program-Backend\\Sugoi-Audio-Video-Translator\\INPUT\\hv\\20\\ac_hv_20_00_050.wav",
+          "seconds": 3.04
+        },
+        {
+          "file": "S:\\Sugoi_AV_CUDA_Test\\Code\\backendServer\\Program-Backend\\Sugoi-Audio-Video-Translator\\INPUT\\hv\\20\\ac_hv_20_00_051.wav",
+          "seconds": 2.885
+        },
+        {
+          "file": "S:\\Sugoi_AV_CUDA_Test\\Code\\backendServer\\Program-Backend\\Sugoi-Audio-Video-Translator\\INPUT\\hv\\20\\ac_hv_20_00_052.wav",
+          "seconds": 3.027
+        },
+        {
+          "file": "S:\\Sugoi_AV_CUDA_Test\\Code\\backendServer\\Program-Backend\\Sugoi-Audio-Video-Translator\\INPUT\\hv\\20\\ac_hv_20_00_053.wav",
+          "seconds": 3.129
+        },
+        {
+          "file": "S:\\Sugoi_AV_CUDA_Test\\Code\\backendServer\\Program-Backend\\Sugoi-Audio-Video-Translator\\INPUT\\hv\\20\\ac_hv_20_00_054.wav",
+          "seconds": 3.133
+        },
+        {
+          "file": "S:\\Sugoi_AV_CUDA_Test\\Code\\backendServer\\Program-Backend\\Sugoi-Audio-Video-Translator\\INPUT\\hv\\20\\ac_hv_20_00_055.wav",
+          "seconds": 3.136
+        },
+        {
+          "file": "S:\\Sugoi_AV_CUDA_Test\\Code\\backendServer\\Program-Backend\\Sugoi-Audio-Video-Translator\\INPUT\\hv\\20\\ac_hv_20_00_056.wav",
+          "seconds": 3.116
+        },
+        {
+          "file": "S:\\Sugoi_AV_CUDA_Test\\Code\\backendServer\\Program-Backend\\Sugoi-Audio-Video-Translator\\INPUT\\hv\\20\\ac_hv_20_00_057.wav",
+          "seconds": 3.177
+        },
+        {
+          "file": "S:\\Sugoi_AV_CUDA_Test\\Code\\backendServer\\Program-Backend\\Sugoi-Audio-Video-Translator\\INPUT\\hv\\20\\ac_hv_20_00_058.wav",
+          "seconds": 3.184
+        },
+        {
+          "file": "S:\\Sugoi_AV_CUDA_Test\\Code\\backendServer\\Program-Backend\\Sugoi-Audio-Video-Translator\\INPUT\\hv\\20\\ac_hv_20_00_059.wav",
+          "seconds": 3.41
+        },
+        {
+          "file": "S:\\Sugoi_AV_CUDA_Test\\Code\\backendServer\\Program-Backend\\Sugoi-Audio-Video-Translator\\INPUT\\hv\\20\\ac_hv_20_00_060.wav",
+          "seconds": 3.268
+        },
+        {
+          "file": "S:\\Sugoi_AV_CUDA_Test\\Code\\backendServer\\Program-Backend\\Sugoi-Audio-Video-Translator\\INPUT\\hv\\20\\ac_hv_20_00_061.wav",
+          "seconds": 3.219
+        },
+        {
+          "file": "S:\\Sugoi_AV_CUDA_Test\\Code\\backendServer\\Program-Backend\\Sugoi-Audio-Video-Translator\\INPUT\\hv\\20\\ac_hv_20_00_062.wav",
+          "seconds": 2.955
+        },
+        {
+          "file": "S:\\Sugoi_AV_CUDA_Test\\Code\\backendServer\\Program-Backend\\Sugoi-Audio-Video-Translator\\INPUT\\hv\\20\\ac_hv_20_00_063.wav",
+          "seconds": 3.042
+        },
+        {
+          "file": "S:\\Sugoi_AV_CUDA_Test\\Code\\backendServer\\Program-Backend\\Sugoi-Audio-Video-Translator\\INPUT\\hv\\20\\ac_hv_20_00_064.wav",
+          "seconds": 3.058
+        },
+        {
+          "file": "S:\\Sugoi_AV_CUDA_Test\\Code\\backendServer\\Program-Backend\\Sugoi-Audio-Video-Translator\\INPUT\\hv\\20\\ac_hv_20_00_065.wav",
+          "seconds": 3.104
+        },
+        {
+          "file": "S:\\Sugoi_AV_CUDA_Test\\Code\\backendServer\\Program-Backend\\Sugoi-Audio-Video-Translator\\INPUT\\hv\\20\\ac_hv_20_00_066.wav",
+          "seconds": 3.036
+        },
+        {
+          "file": "S:\\Sugoi_AV_CUDA_Test\\Code\\backendServer\\Program-Backend\\Sugoi-Audio-Video-Translator\\INPUT\\hv\\20\\ac_hv_20_00_067.wav",
+          "seconds": 3.035
+        },
+        {
+          "file": "S:\\Sugoi_AV_CUDA_Test\\Code\\backendServer\\Program-Backend\\Sugoi-Audio-Video-Translator\\INPUT\\hv\\20\\ac_hv_20_00_068.wav",
+          "seconds": 2.951
+        },
+        {
+          "file": "S:\\Sugoi_AV_CUDA_Test\\Code\\backendServer\\Program-Backend\\Sugoi-Audio-Video-Translator\\INPUT\\hv\\20\\ac_hv_20_00_069.wav",
+          "seconds": 3.054
+        },
+        {
+          "file": "S:\\Sugoi_AV_CUDA_Test\\Code\\backendServer\\Program-Backend\\Sugoi-Audio-Video-Translator\\INPUT\\hv\\20\\ac_hv_20_00_070.wav",
+          "seconds": 3.025
+        },
+        {
+          "file": "S:\\Sugoi_AV_CUDA_Test\\Code\\backendServer\\Program-Backend\\Sugoi-Audio-Video-Translator\\INPUT\\hv\\20\\ac_hv_20_00_071.wav",
+          "seconds": 2.971
+        },
+        {
+          "file": "S:\\Sugoi_AV_CUDA_Test\\Code\\backendServer\\Program-Backend\\Sugoi-Audio-Video-Translator\\INPUT\\hv\\20\\ac_hv_20_00_072.wav",
+          "seconds": 3.004
+        },
+        {
+          "file": "S:\\Sugoi_AV_CUDA_Test\\Code\\backendServer\\Program-Backend\\Sugoi-Audio-Video-Translator\\INPUT\\hv\\20\\ac_hv_20_00_073.wav",
+          "seconds": 3.187
+        },
+        {
+          "file": "S:\\Sugoi_AV_CUDA_Test\\Code\\backendServer\\Program-Backend\\Sugoi-Audio-Video-Translator\\INPUT\\hv\\20\\ac_hv_20_00_074.wav",
+          "seconds": 3.36
+        },
+        {
+          "file": "S:\\Sugoi_AV_CUDA_Test\\Code\\backendServer\\Program-Backend\\Sugoi-Audio-Video-Translator\\INPUT\\hv\\20\\ac_hv_20_00_075.wav",
+          "seconds": 3.187
+        },
+        {
+          "file": "S:\\Sugoi_AV_CUDA_Test\\Code\\backendServer\\Program-Backend\\Sugoi-Audio-Video-Translator\\INPUT\\hv\\20\\ac_hv_20_00_076.wav",
+          "seconds": 2.537
+        },
+        {
+          "file": "S:\\Sugoi_AV_CUDA_Test\\Code\\backendServer\\Program-Backend\\Sugoi-Audio-Video-Translator\\INPUT\\hv\\20\\ac_hv_20_00_077.wav",
+          "seconds": 2.977
+        },
+        {
+          "file": "S:\\Sugoi_AV_CUDA_Test\\Code\\backendServer\\Program-Backend\\Sugoi-Audio-Video-Translator\\INPUT\\hv\\20\\ac_hv_20_00_078.wav",
+          "seconds": 3.033
+        },
+        {
+          "file": "S:\\Sugoi_AV_CUDA_Test\\Code\\backendServer\\Program-Backend\\Sugoi-Audio-Video-Translator\\INPUT\\hv\\20\\ac_hv_20_00_079.wav",
+          "seconds": 3.052
+        },
+        {
+          "file": "S:\\Sugoi_AV_CUDA_Test\\Code\\backendServer\\Program-Backend\\Sugoi-Audio-Video-Translator\\INPUT\\hv\\20\\ac_hv_20_00_080.wav",
+          "seconds": 2.945
+        },
+        {
+          "file": "S:\\Sugoi_AV_CUDA_Test\\Code\\backendServer\\Program-Backend\\Sugoi-Audio-Video-Translator\\INPUT\\hv\\20\\ac_hv_20_00_081.wav",
+          "seconds": 3.024
+        },
+        {
+          "file": "S:\\Sugoi_AV_CUDA_Test\\Code\\backendServer\\Program-Backend\\Sugoi-Audio-Video-Translator\\INPUT\\hv\\20\\ac_hv_20_00_082.wav",
+          "seconds": 2.912
+        },
+        {
+          "file": "S:\\Sugoi_AV_CUDA_Test\\Code\\backendServer\\Program-Backend\\Sugoi-Audio-Video-Translator\\INPUT\\hv\\20\\ac_hv_20_00_083.wav",
+          "seconds": 2.983
+        },
+        {
+          "file": "S:\\Sugoi_AV_CUDA_Test\\Code\\backendServer\\Program-Backend\\Sugoi-Audio-Video-Translator\\INPUT\\hv\\20\\ac_hv_20_00_084.wav",
+          "seconds": 3.003
+        },
+        {
+          "file": "S:\\Sugoi_AV_CUDA_Test\\Code\\backendServer\\Program-Backend\\Sugoi-Audio-Video-Translator\\INPUT\\hv\\20\\ac_hv_20_00_085.wav",
+          "seconds": 3.103
+        },
+        {
+          "file": "S:\\Sugoi_AV_CUDA_Test\\Code\\backendServer\\Program-Backend\\Sugoi-Audio-Video-Translator\\INPUT\\hv\\20\\ac_hv_20_00_086.wav",
+          "seconds": 2.909
+        },
+        {
+          "file": "S:\\Sugoi_AV_CUDA_Test\\Code\\backendServer\\Program-Backend\\Sugoi-Audio-Video-Translator\\INPUT\\hv\\20\\ac_hv_20_00_087.wav",
+          "seconds": 3.036
+        },
+        {
+          "file": "S:\\Sugoi_AV_CUDA_Test\\Code\\backendServer\\Program-Backend\\Sugoi-Audio-Video-Translator\\INPUT\\hv\\20\\ac_hv_20_00_088.wav",
+          "seconds": 3.322
+        },
+        {
+          "file": "S:\\Sugoi_AV_CUDA_Test\\Code\\backendServer\\Program-Backend\\Sugoi-Audio-Video-Translator\\INPUT\\hv\\20\\ac_hv_20_00_089.wav",
+          "seconds": 3.006
+        },
+        {
+          "file": "S:\\Sugoi_AV_CUDA_Test\\Code\\backendServer\\Program-Backend\\Sugoi-Audio-Video-Translator\\INPUT\\hv\\20\\ac_hv_20_00_090.wav",
+          "seconds": 2.552
+        },
+        {
+          "file": "S:\\Sugoi_AV_CUDA_Test\\Code\\backendServer\\Program-Backend\\Sugoi-Audio-Video-Translator\\INPUT\\hv\\20\\ac_hv_20_00_091.wav",
+          "seconds": 3.113
+        },
+        {
+          "file": "S:\\Sugoi_AV_CUDA_Test\\Code\\backendServer\\Program-Backend\\Sugoi-Audio-Video-Translator\\INPUT\\hv\\20\\ac_hv_20_00_092.wav",
+          "seconds": 2.996
+        },
+        {
+          "file": "S:\\Sugoi_AV_CUDA_Test\\Code\\backendServer\\Program-Backend\\Sugoi-Audio-Video-Translator\\INPUT\\hv\\20\\ac_hv_20_00_093.wav",
+          "seconds": 2.724
+        },
+        {
+          "file": "S:\\Sugoi_AV_CUDA_Test\\Code\\backendServer\\Program-Backend\\Sugoi-Audio-Video-Translator\\INPUT\\hv\\20\\ac_hv_20_00_094.wav",
+          "seconds": 3.11
+        },
+        {
+          "file": "S:\\Sugoi_AV_CUDA_Test\\Code\\backendServer\\Program-Backend\\Sugoi-Audio-Video-Translator\\INPUT\\hv\\20\\ac_hv_20_00_095.wav",
+          "seconds": 3.087
+        },
+        {
+          "file": "S:\\Sugoi_AV_CUDA_Test\\Code\\backendServer\\Program-Backend\\Sugoi-Audio-Video-Translator\\INPUT\\hv\\20\\ac_hv_20_00_096.wav",
+          "seconds": 2.945
+        },
+        {
+          "file": "S:\\Sugoi_AV_CUDA_Test\\Code\\backendServer\\Program-Backend\\Sugoi-Audio-Video-Translator\\INPUT\\hv\\20\\ac_hv_20_00_097.wav",
+          "seconds": 2.917
+        },
+        {
+          "file": "S:\\Sugoi_AV_CUDA_Test\\Code\\backendServer\\Program-Backend\\Sugoi-Audio-Video-Translator\\INPUT\\hv\\20\\ac_hv_20_00_098.wav",
+          "seconds": 2.918
+        },
+        {
+          "file": "S:\\Sugoi_AV_CUDA_Test\\Code\\backendServer\\Program-Backend\\Sugoi-Audio-Video-Translator\\INPUT\\hv\\20\\ac_hv_20_00_099.wav",
+          "seconds": 2.998
+        },
+        {
+          "file": "S:\\Sugoi_AV_CUDA_Test\\Code\\backendServer\\Program-Backend\\Sugoi-Audio-Video-Translator\\INPUT\\hv\\20\\ac_hv_20_00_100.wav",
+          "seconds": 3.214
+        },
+        {
+          "file": "S:\\Sugoi_AV_CUDA_Test\\Code\\backendServer\\Program-Backend\\Sugoi-Audio-Video-Translator\\INPUT\\hv\\20\\ac_hv_20_00_101.wav",
+          "seconds": 3.06
+        },
+        {
+          "file": "S:\\Sugoi_AV_CUDA_Test\\Code\\backendServer\\Program-Backend\\Sugoi-Audio-Video-Translator\\INPUT\\hv\\20\\ac_hv_20_00_102.wav",
+          "seconds": 2.936
+        },
+        {
+          "file": "S:\\Sugoi_AV_CUDA_Test\\Code\\backendServer\\Program-Backend\\Sugoi-Audio-Video-Translator\\INPUT\\hv\\20\\ac_hv_20_00_103.wav",
+          "seconds": 2.996
+        },
+        {
+          "file": "S:\\Sugoi_AV_CUDA_Test\\Code\\backendServer\\Program-Backend\\Sugoi-Audio-Video-Translator\\INPUT\\hv\\20\\ac_hv_20_00_104.wav",
+          "seconds": 3.055
+        },
+        {
+          "file": "S:\\Sugoi_AV_CUDA_Test\\Code\\backendServer\\Program-Backend\\Sugoi-Audio-Video-Translator\\INPUT\\hv\\20\\ac_hv_20_00_105.wav",
+          "seconds": 3.16
+        },
+        {
+          "file": "S:\\Sugoi_AV_CUDA_Test\\Code\\backendServer\\Program-Backend\\Sugoi-Audio-Video-Translator\\INPUT\\hv\\20\\ac_hv_20_00_106.wav",
+          "seconds": 2.968
+        },
+        {
+          "file": "S:\\Sugoi_AV_CUDA_Test\\Code\\backendServer\\Program-Backend\\Sugoi-Audio-Video-Translator\\INPUT\\hv\\20\\ac_hv_20_00_107.wav",
+          "seconds": 2.98
+        },
+        {
+          "file": "S:\\Sugoi_AV_CUDA_Test\\Code\\backendServer\\Program-Backend\\Sugoi-Audio-Video-Translator\\INPUT\\hv\\20\\ac_hv_20_00_108.wav",
+          "seconds": 3.007
+        },
+        {
+          "file": "S:\\Sugoi_AV_CUDA_Test\\Code\\backendServer\\Program-Backend\\Sugoi-Audio-Video-Translator\\INPUT\\hv\\20\\ac_hv_20_00_109.wav",
+          "seconds": 2.923
+        },
+        {
+          "file": "S:\\Sugoi_AV_CUDA_Test\\Code\\backendServer\\Program-Backend\\Sugoi-Audio-Video-Translator\\INPUT\\hv\\20\\ac_hv_20_00_110.wav",
+          "seconds": 2.926
+        },
+        {
+          "file": "S:\\Sugoi_AV_CUDA_Test\\Code\\backendServer\\Program-Backend\\Sugoi-Audio-Video-Translator\\INPUT\\hv\\20\\ac_hv_20_00_111.wav",
+          "seconds": 2.993
+        },
+        {
+          "file": "S:\\Sugoi_AV_CUDA_Test\\Code\\backendServer\\Program-Backend\\Sugoi-Audio-Video-Translator\\INPUT\\hv\\20\\ac_hv_20_00_112.wav",
+          "seconds": 2.962
+        },
+        {
+          "file": "S:\\Sugoi_AV_CUDA_Test\\Code\\backendServer\\Program-Backend\\Sugoi-Audio-Video-Translator\\INPUT\\hv\\20\\ac_hv_20_00_113.wav",
+          "seconds": 3.03
+        },
+        {
+          "file": "S:\\Sugoi_AV_CUDA_Test\\Code\\backendServer\\Program-Backend\\Sugoi-Audio-Video-Translator\\INPUT\\hv\\20\\ac_hv_20_00_114.wav",
+          "seconds": 2.884
+        },
+        {
+          "file": "S:\\Sugoi_AV_CUDA_Test\\Code\\backendServer\\Program-Backend\\Sugoi-Audio-Video-Translator\\INPUT\\hv\\20\\ac_hv_20_00_115.wav",
+          "seconds": 2.934
+        },
+        {
+          "file": "S:\\Sugoi_AV_CUDA_Test\\Code\\backendServer\\Program-Backend\\Sugoi-Audio-Video-Translator\\INPUT\\hv\\20\\ac_hv_20_00_116.wav",
+          "seconds": 2.904
+        },
+        {
+          "file": "S:\\Sugoi_AV_CUDA_Test\\Code\\backendServer\\Program-Backend\\Sugoi-Audio-Video-Translator\\INPUT\\hv\\20\\ac_hv_20_00_117.wav",
+          "seconds": 2.783
+        },
+        {
+          "file": "S:\\Sugoi_AV_CUDA_Test\\Code\\backendServer\\Program-Backend\\Sugoi-Audio-Video-Translator\\INPUT\\hv\\20\\ac_hv_20_00_118.wav",
+          "seconds": 2.987
+        },
+        {
+          "file": "S:\\Sugoi_AV_CUDA_Test\\Code\\backendServer\\Program-Backend\\Sugoi-Audio-Video-Translator\\INPUT\\hv\\20\\ac_hv_20_00_119.wav",
+          "seconds": 3.233
+        },
+        {
+          "file": "S:\\Sugoi_AV_CUDA_Test\\Code\\backendServer\\Program-Backend\\Sugoi-Audio-Video-Translator\\INPUT\\hv\\20\\ac_hv_20_00_120.wav",
+          "seconds": 3.287
+        },
+        {
+          "file": "S:\\Sugoi_AV_CUDA_Test\\Code\\backendServer\\Program-Backend\\Sugoi-Audio-Video-Translator\\INPUT\\hv\\20\\ac_hv_20_00_121.wav",
+          "seconds": 3.195
+        },
+        {
+          "file": "S:\\Sugoi_AV_CUDA_Test\\Code\\backendServer\\Program-Backend\\Sugoi-Audio-Video-Translator\\INPUT\\hv\\20\\ac_hv_20_00_122.wav",
+          "seconds": 3.093
+        },
+        {
+          "file": "S:\\Sugoi_AV_CUDA_Test\\Code\\backendServer\\Program-Backend\\Sugoi-Audio-Video-Translator\\INPUT\\hv\\20\\ac_hv_20_00_123.wav",
+          "seconds": 3.013
+        },
+        {
+          "file": "S:\\Sugoi_AV_CUDA_Test\\Code\\backendServer\\Program-Backend\\Sugoi-Audio-Video-Translator\\INPUT\\hv\\20\\ac_hv_20_00_124.wav",
+          "seconds": 3.077
+        },
+        {
+          "file": "S:\\Sugoi_AV_CUDA_Test\\Code\\backendServer\\Program-Backend\\Sugoi-Audio-Video-Translator\\INPUT\\hv\\20\\ac_hv_20_00_125.wav",
+          "seconds": 3.054
+        },
+        {
+          "file": "S:\\Sugoi_AV_CUDA_Test\\Code\\backendServer\\Program-Backend\\Sugoi-Audio-Video-Translator\\INPUT\\hv\\20\\ac_hv_20_00_126.wav",
+          "seconds": 3.129
+        },
+        {
+          "file": "S:\\Sugoi_AV_CUDA_Test\\Code\\backendServer\\Program-Backend\\Sugoi-Audio-Video-Translator\\INPUT\\hv\\20\\ac_hv_20_00_127.wav",
+          "seconds": 3.014
+        },
+        {
+          "file": "S:\\Sugoi_AV_CUDA_Test\\Code\\backendServer\\Program-Backend\\Sugoi-Audio-Video-Translator\\INPUT\\hv\\20\\ac_hv_20_00_128.wav",
+          "seconds": 3.103
+        },
+        {
+          "file": "S:\\Sugoi_AV_CUDA_Test\\Code\\backendServer\\Program-Backend\\Sugoi-Audio-Video-Translator\\INPUT\\hv\\20\\ac_hv_20_00_129.wav",
+          "seconds": 3.044
+        },
+        {
+          "file": "S:\\Sugoi_AV_CUDA_Test\\Code\\backendServer\\Program-Backend\\Sugoi-Audio-Video-Translator\\INPUT\\hv\\20\\ac_hv_20_00_130.wav",
+          "seconds": 3.073
+        },
+        {
+          "file": "S:\\Sugoi_AV_CUDA_Test\\Code\\backendServer\\Program-Backend\\Sugoi-Audio-Video-Translator\\INPUT\\hv\\20\\ac_hv_20_00_131.wav",
+          "seconds": 2.716
+        },
+        {
+          "file": "S:\\Sugoi_AV_CUDA_Test\\Code\\backendServer\\Program-Backend\\Sugoi-Audio-Video-Translator\\INPUT\\hv\\20\\ac_hv_20_00_132.wav",
+          "seconds": 2.732
+        },
+        {
+          "file": "S:\\Sugoi_AV_CUDA_Test\\Code\\backendServer\\Program-Backend\\Sugoi-Audio-Video-Translator\\INPUT\\hv\\20\\ac_hv_20_00_133.wav",
+          "seconds": 2.927
+        },
+        {
+          "file": "S:\\Sugoi_AV_CUDA_Test\\Code\\backendServer\\Program-Backend\\Sugoi-Audio-Video-Translator\\INPUT\\hv\\20\\ac_hv_20_00_134.wav",
+          "seconds": 2.957
+        },
+        {
+          "file": "S:\\Sugoi_AV_CUDA_Test\\Code\\backendServer\\Program-Backend\\Sugoi-Audio-Video-Translator\\INPUT\\hv\\20\\ac_hv_20_00_135.wav",
+          "seconds": 2.964
+        },
+        {
+          "file": "S:\\Sugoi_AV_CUDA_Test\\Code\\backendServer\\Program-Backend\\Sugoi-Audio-Video-Translator\\INPUT\\hv\\20\\ac_hv_20_00_136.wav",
+          "seconds": 4.251
+        },
+        {
+          "file": "S:\\Sugoi_AV_CUDA_Test\\Code\\backendServer\\Program-Backend\\Sugoi-Audio-Video-Translator\\INPUT\\hv\\20\\ac_hv_20_00_137.wav",
+          "seconds": 2.959
+        },
+        {
+          "file": "S:\\Sugoi_AV_CUDA_Test\\Code\\backendServer\\Program-Backend\\Sugoi-Audio-Video-Translator\\INPUT\\hv\\20\\ac_hv_20_00_138.wav",
+          "seconds": 2.913
+        },
+        {
+          "file": "S:\\Sugoi_AV_CUDA_Test\\Code\\backendServer\\Program-Backend\\Sugoi-Audio-Video-Translator\\INPUT\\hv\\20\\ac_hv_20_00_139.wav",
+          "seconds": 2.964
+        },
+        {
+          "file": "S:\\Sugoi_AV_CUDA_Test\\Code\\backendServer\\Program-Backend\\Sugoi-Audio-Video-Translator\\INPUT\\hv\\20\\ac_hv_20_00_140.wav",
+          "seconds": 2.865
+        },
+        {
+          "file": "S:\\Sugoi_AV_CUDA_Test\\Code\\backendServer\\Program-Backend\\Sugoi-Audio-Video-Translator\\INPUT\\hv\\20\\ac_hv_20_00_141.wav",
+          "seconds": 2.989
+        },
+        {
+          "file": "S:\\Sugoi_AV_CUDA_Test\\Code\\backendServer\\Program-Backend\\Sugoi-Audio-Video-Translator\\INPUT\\hv\\20\\ac_hv_20_00_142.wav",
+          "seconds": 2.895
+        },
+        {
+          "file": "S:\\Sugoi_AV_CUDA_Test\\Code\\backendServer\\Program-Backend\\Sugoi-Audio-Video-Translator\\INPUT\\hv\\20\\ac_hv_20_00_143.wav",
+          "seconds": 3.034
+        },
+        {
+          "file": "S:\\Sugoi_AV_CUDA_Test\\Code\\backendServer\\Program-Backend\\Sugoi-Audio-Video-Translator\\INPUT\\hv\\20\\ac_hv_20_00_144.wav",
+          "seconds": 2.898
+        },
+        {
+          "file": "S:\\Sugoi_AV_CUDA_Test\\Code\\backendServer\\Program-Backend\\Sugoi-Audio-Video-Translator\\INPUT\\hv\\20\\ac_hv_20_00_145.wav",
+          "seconds": 3.306
+        },
+        {
+          "file": "S:\\Sugoi_AV_CUDA_Test\\Code\\backendServer\\Program-Backend\\Sugoi-Audio-Video-Translator\\INPUT\\hv\\20\\ac_hv_20_00_146.wav",
+          "seconds": 3.012
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+﻿.specstory/
+.vscode/
+.vs/
+.cline/
+
+*.code-workspace
+
+chat_copy.md
+chatlog_ende.txt
+\# Error.md
+
+AudioClip/
+Code/backendServer/Program-Backend/Sugoi-Audio-Video-Translator/INPUT/
+Code/backendServer/Program-Backend/Sugoi-Audio-Video-Translator/OUTPUT/
+Code/backendServer/Program-Backend/Sugoi-Audio-Video-Translator/HF_CACHE/
+
+Code/backendServer/Modules/Translation-API-Server/Offline_Japan/Sugoi_Model/
+
+Code/Power-Source/
+
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+Code/backendServer/Program-Backend/Sugoi-Audio-Video-Translator/whisper_small/model.bin

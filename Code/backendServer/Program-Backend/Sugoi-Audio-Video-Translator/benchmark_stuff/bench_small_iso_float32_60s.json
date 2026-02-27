@@ -1,0 +1,42 @@
+{
+  "input": "S:\\Sugoi_Offline_Translate_Toolkit\\Code\\backendServer\\Program-Backend\\Sugoi-Audio-Video-Translator\\INPUT",
+  "start_index": 0,
+  "tested_files": 2021,
+  "benchmark_wallclock_seconds": 138.063,
+  "fastest_preset": {
+    "model_name": "ctranslate2-4you/whisper-small-ct2-float32",
+    "compute_type": "float32",
+    "batch_size": 16,
+    "beam_size": 1,
+    "device": "cuda",
+    "language": "ja",
+    "intra_threads": null
+  },
+  "results_ranked": [
+    {
+      "preset": {
+        "model_name": "ctranslate2-4you/whisper-small-ct2-float32",
+        "compute_type": "float32",
+        "batch_size": 16,
+        "beam_size": 1,
+        "device": "cuda",
+        "language": "ja",
+        "intra_threads": null
+      },
+      "input_count": 2021,
+      "success_count": 1,
+      "failed_count": 0,
+      "failed_files": [],
+      "total_seconds": 132.729,
+      "wallclock_seconds": 138.063,
+      "average_seconds_per_file": 132.729,
+      "files_per_minute": 0.452,
+      "rows": [
+        {
+          "file": "INPUT\\hv\\20\\ac_hv_20_00_000.wav",
+          "seconds": 132.729
+        }
+      ]
+    }
+  ]
+}

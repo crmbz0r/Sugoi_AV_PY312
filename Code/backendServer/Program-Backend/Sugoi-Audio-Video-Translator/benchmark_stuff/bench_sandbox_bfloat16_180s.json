@@ -1,0 +1,224 @@
+{
+  "input": "S:\\Sugoi_AV_CUDA_Test\\Code\\backendServer\\Program-Backend\\Sugoi-Audio-Video-Translator\\INPUT",
+  "start_index": 0,
+  "tested_files": 2021,
+  "benchmark_wallclock_seconds": 183.409,
+  "fastest_preset": {
+    "model_name": "ctranslate2-4you/whisper-small-ct2-bfloat16",
+    "compute_type": "bfloat16",
+    "batch_size": 16,
+    "beam_size": 1,
+    "device": "cuda",
+    "language": "ja",
+    "intra_threads": null
+  },
+  "results_ranked": [
+    {
+      "preset": {
+        "model_name": "ctranslate2-4you/whisper-small-ct2-bfloat16",
+        "compute_type": "bfloat16",
+        "batch_size": 16,
+        "beam_size": 1,
+        "device": "cuda",
+        "language": "ja",
+        "intra_threads": null
+      },
+      "input_count": 2021,
+      "success_count": 46,
+      "failed_count": 0,
+      "failed_files": [],
+      "nonzero_exit_count": 0,
+      "nonzero_exit_files": [],
+      "total_seconds": 139.511,
+      "wallclock_seconds": 183.409,
+      "average_seconds_per_file": 3.033,
+      "files_per_minute": 19.783,
+      "rows": [
+        {
+          "file": "INPUT\\hv\\20\\ac_hv_20_00_000.wav",
+          "seconds": 2.878
+        },
+        {
+          "file": "INPUT\\hv\\20\\ac_hv_20_00_001.wav",
+          "seconds": 2.895
+        },
+        {
+          "file": "INPUT\\hv\\20\\ac_hv_20_00_002.wav",
+          "seconds": 2.787
+        },
+        {
+          "file": "INPUT\\hv\\20\\ac_hv_20_00_003.wav",
+          "seconds": 3.12
+        },
+        {
+          "file": "INPUT\\hv\\20\\ac_hv_20_00_004.wav",
+          "seconds": 3.183
+        },
+        {
+          "file": "INPUT\\hv\\20\\ac_hv_20_00_005.wav",
+          "seconds": 3.143
+        },
+        {
+          "file": "INPUT\\hv\\20\\ac_hv_20_00_006.wav",
+          "seconds": 3.085
+        },
+        {
+          "file": "INPUT\\hv\\20\\ac_hv_20_00_007.wav",
+          "seconds": 2.931
+        },
+        {
+          "file": "INPUT\\hv\\20\\ac_hv_20_00_008.wav",
+          "seconds": 2.896
+        },
+        {
+          "file": "INPUT\\hv\\20\\ac_hv_20_00_009.wav",
+          "seconds": 3.041
+        },
+        {
+          "file": "INPUT\\hv\\20\\ac_hv_20_00_010.wav",
+          "seconds": 3.145
+        },
+        {
+          "file": "INPUT\\hv\\20\\ac_hv_20_00_011.wav",
+          "seconds": 2.953
+        },
+        {
+          "file": "INPUT\\hv\\20\\ac_hv_20_00_012.wav",
+          "seconds": 4.401
+        },
+        {
+          "file": "INPUT\\hv\\20\\ac_hv_20_00_013.wav",
+          "seconds": 3.027
+        },
+        {
+          "file": "INPUT\\hv\\20\\ac_hv_20_00_014.wav",
+          "seconds": 3.097
+        },
+        {
+          "file": "INPUT\\hv\\20\\ac_hv_20_00_015.wav",
+          "seconds": 2.926
+        },
+        {
+          "file": "INPUT\\hv\\20\\ac_hv_20_00_016.wav",
+          "seconds": 3.002
+        },
+        {
+          "file": "INPUT\\hv\\20\\ac_hv_20_00_017.wav",
+          "seconds": 2.862
+        },
+        {
+          "file": "INPUT\\hv\\20\\ac_hv_20_00_018.wav",
+          "seconds": 3.06
+        },
+        {
+          "file": "INPUT\\hv\\20\\ac_hv_20_00_019.wav",
+          "seconds": 2.885
+        },
+        {
+          "file": "INPUT\\hv\\20\\ac_hv_20_00_020.wav",
+          "seconds": 3.123
+        },
+        {
+          "file": "INPUT\\hv\\20\\ac_hv_20_00_021.wav",
+          "seconds": 3.146
+        },
+        {
+          "file": "INPUT\\hv\\20\\ac_hv_20_00_022.wav",
+          "seconds": 2.925
+        },
+        {
+          "file": "INPUT\\hv\\20\\ac_hv_20_00_023.wav",
+          "seconds": 2.972
+        },
+        {
+          "file": "INPUT\\hv\\20\\ac_hv_20_00_024.wav",
+          "seconds": 2.973
+        },
+        {
+          "file": "INPUT\\hv\\20\\ac_hv_20_00_025.wav",
+          "seconds": 2.97
+        },
+        {
+          "file": "INPUT\\hv\\20\\ac_hv_20_00_026.wav",
+          "seconds": 3.03
+        },
+        {
+          "file": "INPUT\\hv\\20\\ac_hv_20_00_027.wav",
+          "seconds": 3.17
+        },
+        {
+          "file": "INPUT\\hv\\20\\ac_hv_20_00_028.wav",
+          "seconds": 3.125
+        },
+        {
+          "file": "INPUT\\hv\\20\\ac_hv_20_00_029.wav",
+          "seconds": 2.991
+        },
+        {
+          "file": "INPUT\\hv\\20\\ac_hv_20_00_030.wav",
+          "seconds": 2.955
+        },
+        {
+          "file": "INPUT\\hv\\20\\ac_hv_20_00_031.wav",
+          "seconds": 2.94
+        },
+        {
+          "file": "INPUT\\hv\\20\\ac_hv_20_00_032.wav",
+          "seconds": 3.016
+        },
+        {
+          "file": "INPUT\\hv\\20\\ac_hv_20_00_033.wav",
+          "seconds": 3.059
+        },
+        {
+          "file": "INPUT\\hv\\20\\ac_hv_20_00_034.wav",
+          "seconds": 2.969
+        },
+        {
+          "file": "INPUT\\hv\\20\\ac_hv_20_00_035.wav",
+          "seconds": 2.845
+        },
+        {
+          "file": "INPUT\\hv\\20\\ac_hv_20_00_036.wav",
+          "seconds": 2.874
+        },
+        {
+          "file": "INPUT\\hv\\20\\ac_hv_20_00_037.wav",
+          "seconds": 2.976
+        },
+        {
+          "file": "INPUT\\hv\\20\\ac_hv_20_00_038.wav",
+          "seconds": 2.994
+        },
+        {
+          "file": "INPUT\\hv\\20\\ac_hv_20_00_039.wav",
+          "seconds": 3.037
+        },
+        {
+          "file": "INPUT\\hv\\20\\ac_hv_20_00_040.wav",
+          "seconds": 3.076
+        },
+        {
+          "file": "INPUT\\hv\\20\\ac_hv_20_00_041.wav",
+          "seconds": 3.126
+        },
+        {
+          "file": "INPUT\\hv\\20\\ac_hv_20_00_042.wav",
+          "seconds": 2.926
+        },
+        {
+          "file": "INPUT\\hv\\20\\ac_hv_20_00_043.wav",
+          "seconds": 3.017
+        },
+        {
+          "file": "INPUT\\hv\\20\\ac_hv_20_00_044.wav",
+          "seconds": 2.975
+        },
+        {
+          "file": "INPUT\\hv\\20\\ac_hv_20_00_045.wav",
+          "seconds": 2.985
+        }
+      ]
+    }
+  ]
+}
