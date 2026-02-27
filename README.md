@@ -23,7 +23,9 @@ This repository contains a local sandbox/build of the Sugoi Audio/Video translat
 
 ## Status
 
-Not production-ready yet.
+> [!CAUTION]
+> 🚧 **Not production-ready yet.**  
+
 
 ## Notes
 
