@@ -33,3 +33,6 @@ S:\Sugoi_AV_CUDA_Test\Code\backendServer\Program-Backend\Sugoi-Audio-Video-Trans
 S:\Sugoi_AV_CUDA_Test\Code\backendServer\Program-Backend\Sugoi-Audio-Video-Translator\whisper_small\vocabulary.txt"
 S:\Sugoi_AV_CUDA_Test\Code\backendServer\Program-Backend\Sugoi-Audio-Video-Translator\whisper_small\config"
 Code/backendServer/Program-Backend/Sugoi-Audio-Video-Translator/whisper_small/model.7z.*
+Code/backendServer/Program-Backend/Sugoi-Audio-Video-Translator/whisper_small/config.json
+Code/backendServer/Program-Backend/Sugoi-Audio-Video-Translator/whisper_small/tokenizer.json
+Code/backendServer/Program-Backend/Sugoi-Audio-Video-Translator/whisper_small/vocabulary.txt
